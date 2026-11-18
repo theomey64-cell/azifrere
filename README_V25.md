@@ -1,0 +1,1 @@
+V25 : menu circulaire 3D interactif avec quatre PNG transparents fournis, glissement souris, molette et clavier. Les écrans de création/rejoindre, modes et profil sont conservés. Variables Render inchangées. Stripe non modifié.
